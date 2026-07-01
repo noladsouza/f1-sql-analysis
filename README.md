@@ -67,5 +67,14 @@ covering Formula 1 race history from 1950 to present (2026).
 * 2008 constructor standings- Ferrari won the 2008 Constructors' Championship with 172 points, narrowly ahead of McLaren on 151. Red Bull finished 7th with just 29 points - remarkable context given their later dominance.
 * Constructor win rate (min. 50 races)- Despite Ferrari having the most wins, Mercedes has the highest win rate at 19.27% - nearly 1 in 5 races entered. Red Bull follows at 15.26%. Ferrari's 9.96% rate reflects the sheer volume of races they've competed in over 75 years.
 
+4\_quali\_and\_pitstop\_analysis.sql
+
+* Fastest Q3 lap per circuit- The shortest qualifying lap in the dataset is 1:02.939 by Valtteri Bottas at the Red Bull Ring (Austria) in 2020 - a circuit known for its very short lap length. The José Carlos Pace circuit in Brazil produced Hamilton's 1:07.281 in 2018 and Monaco's tight street circuit saw Lando Norris set a 1:09.954 in 2025.
+* Most pole positions- Hamilton leads with 105 pole positions, ahead of Schumacher (69) and Senna (65). Verstappen's 52 poles places him 5th all-time and ahead of legends like Jim Clark and Alain Prost.
+* Average pit stop duration by team (2022)- In 2022, Williams had the fastest average pit stop at \~90,469ms (\~90.5 seconds) - note these times are in milliseconds and likely include outlier stops. Red Bull, despite winning the championship, averaged \~125,703ms per stop. This discrepancy may reflect differing data recording methods per team in this season.
+* Fastest individual pit stops- The fastest recorded pit stop in the database is Luca Badoer in 2009 at 8,757ms (\~8.8 seconds) - notably from the refuelling era where stops were longer overall. The data here reflects the limitations of early pit stop timing records rather than true sub-2-second modern stops, suggesting the database may only have millisecond-level data from older seasons.
+
+
+
 
 
