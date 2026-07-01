@@ -8,18 +8,6 @@ GROUP BY rr.driver_id
 ORDER BY total_wins DESC
 LIMIT 15;
 
-
---total career points of top 20
-SELECT d.first_name || ' ' || d.last_name AS driver_name,
-       SUM(rr.points) AS career_points,
-       COUNT(*) AS races_entered
-FROM race_result rr
-JOIN driver d ON rr.driver_id = d.id
-GROUP BY rr.driver_id
-ORDER BY career_points DESC
-LIMIT 20;
-
-
 --specific driver stat in specific szn
 SELECT d.first_name || ' ' || d.last_name AS driver_name,
        r.official_name AS race_name,

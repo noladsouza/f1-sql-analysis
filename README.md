@@ -51,8 +51,15 @@ covering Formula 1 race history from 1950 to present (2026).
 1\_initial.sql
 
 * Driver details- The database contains 917 drivers spanning Formula 1's entire history from 1950 to 2026.
-* Races in 2023- The 2023 season ran 22 races from the Bahrain Grand Prix on 5 March to the Abu Dhabi Grand Prix on 26 November, spread across circuits in Europe, the Middle East, Asia, and the Americas.
+* Races in 2023- The 2023 season ran 22 races from the Bahrain Grand Prix on 5 March to the Abu Dhabi Grand Prix on 26 November, spread across circuits in Europe, the Middle East, Asia and the Americas.
 * Races per year- The F1 calendar has grown significantly over time — from just 7 races in 1950 to a peak of 24 races in 2024 and 2025. The 2020 season was notably shortened to only 17 races due to the COVID-19 pandemic.
+
+2\_driver\_analysis.sql
+
+* Top 15 race wins- Lewis Hamilton leads all-time with 106 wins, ahead of Michael Schumacher (91) and Max Verstappen (71). Verstappen is the only active driver in the top 3, having overtaken Schumacher's long-standing record in far fewer career races.
+* Leclerc 2023 season- Leclerc had a difficult 2023. He recorded 5 DNFs or non-classified finishes (Bahrain, Australia, Spain, Dutch GP, US GP) and did not win a single race. His best results were three P2 finishes (Austria, Las Vegas, Abu Dhabi), reflecting a Ferrari that was consistently strong enough for the podium but rarely for victory.
+* Most podiums- Hamilton again leads with 206 podiums - more than 50 ahead of Schumacher (155). Verstappen's 129 podiums from just 241 races is a remarkable rate for an active driver.
+* Win rate (min. 50 races)- Juan Manuel Fangio has the highest win rate at 41.38% - nearly 1 in 2 races - from the 1950s era when fields were smaller. Among modern-era drivers, Schumacher (29.55%) and Verstappen (29.46%) are neck and neck, with Hamilton just behind at 27.32%.
 
 
 
