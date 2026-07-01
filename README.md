@@ -61,5 +61,11 @@ covering Formula 1 race history from 1950 to present (2026).
 * Most podiums- Hamilton again leads with 206 podiums - more than 50 ahead of Schumacher (155). Verstappen's 129 podiums from just 241 races is a remarkable rate for an active driver.
 * Win rate (min. 50 races)- Juan Manuel Fangio has the highest win rate at 41.38% - nearly 1 in 2 races - from the 1950s era when fields were smaller. Among modern-era drivers, Schumacher (29.55%) and Verstappen (29.46%) are neck and neck, with Hamilton just behind at 27.32%.
 
+3\_constructor\_analysis.sql
+
+* All-time constructor wins- Ferrari leads all-time with 250 wins, ahead of McLaren (203) and Mercedes (138). However Ferrari's wins span 75 years while Mercedes achieved 138 wins in a much shorter, more dominant period.
+* 2008 constructor standings- Ferrari won the 2008 Constructors' Championship with 172 points, narrowly ahead of McLaren on 151. Red Bull finished 7th with just 29 points - remarkable context given their later dominance.
+* Constructor win rate (min. 50 races)- Despite Ferrari having the most wins, Mercedes has the highest win rate at 19.27% - nearly 1 in 5 races entered. Red Bull follows at 15.26%. Ferrari's 9.96% rate reflects the sheer volume of races they've competed in over 75 years.
+
 
 
